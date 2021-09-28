@@ -1,1 +1,4 @@
 # College-information-Management-System
+
+IT REQUIRE THE XAMPP TO RUN THIS PROJECT
+AND IMPORT DATABASE FILE
